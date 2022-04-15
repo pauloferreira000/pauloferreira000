@@ -4,11 +4,11 @@
 <p style='text-align: justify;'> 
 
 <b>Sobre:</b> Analista desenvolvedor com mais de dez anos de experiência na área de tecnologia da informação, atuando em projetos de grande porte e de alta complexidade.
-
+</p>
 
 <p style='text-align: justify;'> 
-<b>Formação acadêmica:</b> Possui Pós-graduação em Ciência de Dados e Big Data, pela PUC-MG - Pontifícia Universidade Católica de Minas Gerais (2022); Pós-graduação em Gestão de Projetos de Software, pelo IFSP - Instituto Federal de Educação Ciência e Tecnologia de São Paulo (2015); Pós-graduação em Planejamento, Implementação e Gestão de Ensino, pelo Instituto de Matemática e Estatística da UFF - Universidade Federal Fluminense (2017); Graduação (Bacharelado) em Ciência da Computação pela Universidade Guarulhos (2010).
-
+<b>Formação acadêmica:</b> 🗸 Possui Pós-graduação em Ciência de Dados e Big Data, pela PUC-MG - Pontifícia Universidade Católica de Minas Gerais (2022); 🗸 Pós-graduação em Gestão de Projetos de Software, pelo IFSP - Instituto Federal de Educação Ciência e Tecnologia de São Paulo (2015); 🗸 Pós-graduação em Planejamento, Implementação e Gestão de Ensino, pelo Instituto de Matemática e Estatística da UFF - Universidade Federal Fluminense (2017); 🗸 Graduação (Bacharelado) em Ciência da Computação pela Universidade Guarulhos (2010).
+</p>
 
 <p style='text-align: justify;'>
 <b>Perfil:</b> Técnico analítico, adaptativo e com expertise em realizar ciclos completos dos processos de desenvolvimento de software.
@@ -24,6 +24,20 @@ __Skills:__
 
 
 </br>
+
+
+```mermaid
+gantt
+dateFormat  MM/YYYY
+title My Timeline
+section Carreira
+PMESP - Analista de suporte de TI  :active,, 02/2010,12/2010
+PMESP - Programador web            :active,, 01/2011,12/2011
+PMESP - Analista desenvolvedor     :active,, 12/2011,01/2021
+TCS - Analista desenvolvedor       :active,, 01/2021,05/2021
+CREFISA - Analista desenvolvedor   :active,, 05/2021,02/2022
+```
+
 
 __Conecte-se__
 <div>
