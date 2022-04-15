@@ -7,7 +7,7 @@ Analista desenvolvedor com mais de dez anos de experiência na área de tecnolog
 </p>
 <br/>
 <p style='text-align: justify;'> 
-<b>Formação acadêmica :</b>
+<b>Formação acadêmica</b>
 
 * Pós-graduação (especialização) em Ciência de Dados e Big Data, pela PUC-MG - Pontifícia Universidade Católica de Minas Gerais (2022);
 
@@ -21,7 +21,8 @@ Analista desenvolvedor com mais de dez anos de experiência na área de tecnolog
 </br>
 
 <p style='text-align: justify;'>
-<b>Perfil :</b><br/>
+<b>Perfil</b><br/>
+
 Técnico analítico, adaptativo e com expertise em realizar ciclos completos dos processos de desenvolvimento de software.
 Vivência com requisitos, arquitetura, desenvolvimento, integração de sistemas, liderança e treinamento, em times de alta performance e com foco na solução de problemas.
 </p>
