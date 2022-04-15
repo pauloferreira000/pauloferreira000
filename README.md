@@ -51,7 +51,7 @@ CREFISA - Analista desenvolvedor   :active,, 2021-05-01,2022-12-01
 __Banco Crefisa S.A.__
 * Analista desenvolvedor | Full Stack Developer</br>
 mai de 2021 - o momento</br>
-Matriz SP
+Matriz SP</br>
 Arquitetura | Análise | Desenvolvimento
 
 </br>
