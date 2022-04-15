@@ -24,7 +24,7 @@ Vivência com requisitos, arquitetura, desenvolvimento, integração de sistemas
 
 * Pós-graduação (especialização) em Gestão de Projetos de Software, pelo IFSP - Instituto Federal de Educação Ciência e Tecnologia de São Paulo (2015);
 
-* Pós-graduação (especialização) em Planejamento, Implementação e Gestão de Ensino, pelo Instituto de Matemática e Estatística da UFF - Universidade Federal Fluminense (2017);
+* Pós-graduação (especialização) em Planejamento, Implementação e Gestão de Ensino, pelo IME-UFF - Instituto de Matemática e Estatística da Universidade Federal Fluminense (2017);
 
 * Graduação (Bacharelado) em Ciência da Computação, pela Universidade Guarulhos (2010).
 </p>
