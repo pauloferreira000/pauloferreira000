@@ -28,14 +28,14 @@ __Skills:__
 
 ```mermaid
 gantt
-dateFormat  MM/YYYY
+dateFormat  MM-YYYY
 title My Timeline
 section Carreira
-PMESP - Analista de suporte de TI  :active,, 02/2010,12/2010
-PMESP - Programador web            :active,, 01/2011,12/2011
-PMESP - Analista desenvolvedor     :active,, 12/2011,01/2021
-TCS - Analista desenvolvedor       :active,, 01/2021,05/2021
-CREFISA - Analista desenvolvedor   :active,, 05/2021,02/2022
+PMESP - Analista de suporte de TI  :active,, 02-2010,12-2010
+PMESP - Programador web            :active,, 01-2011,12-2011
+PMESP - Analista desenvolvedor     :active,, 12-2011,01-2021
+TCS - Analista desenvolvedor       :active,, 01-2021,05-2021
+CREFISA - Analista desenvolvedor   :active,, 05-2021,02-2022
 ```
 
 
