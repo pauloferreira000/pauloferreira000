@@ -47,7 +47,8 @@ CREFISA - Analista desenvolvedor   :active,, 2021-05-01,2022-12-01
 ```
 
 
-__Banco Crefisa S.A.__
+__Banco Crefisa S.A.__ &nbsp;
+<a href="https://www.crefisa.com.br/"><img src="https://img.shields.io/website-up-down-green-red/http/www.crefisa.com.br"></a>  
 * Analista desenvolvedor | Full Stack Developer</br>
 mai de 2021 - o momento</br>
 Matriz SP</br>
@@ -55,7 +56,9 @@ Arquitetura | Análise | Desenvolvimento
 
 </br>
 
-__TCS - Tata Consultancy Services__
+__TCS - Tata Consultancy Services__ &nbsp;
+<a href="https://www.tcs.com/"><img src="https://img.shields.io/website-up-down-green-red/http/www.tcs.com/"></a> 
+
 * Analista desenvolvedor | Full Stack Developer</br>
 Porto Seguro - Matriz SP</br>
 jan de 2021 - mai de 2021 · 5 meses</br>
@@ -69,6 +72,7 @@ Análise | Desenvolvimento
 </br>
 
 __Polícia Militar do Estado de São Paulo__
+<a href="https://www.policiamilitar.sp.gov.br/"><img src="https://img.shields.io/website-up-down-green-red/http/www.policiamilitar.sp.gov.br/"></a> 
 * Analista desenvolvedor .NET</br>
 dez de 2011 - jan de 2021 · 9 anos 2 meses</br>
 PMESP - Diretoria de pessoal</br>
@@ -87,7 +91,8 @@ Suporte técnico de TI
 
 </br>
 
-__Competências :__ Arquitetura, Análise, Requisitos, Desenvolvimento, Sustentação, Gestão de projetos, Agile, Análise de dados, Integração de sistemas, Liderança e Treinamento 
+__Competências :__ </br>
+Arquitetura, Análise, Requisitos, Desenvolvimento, Sustentação, Gestão de projetos, Agile, Análise de dados, Integração de sistemas, Liderança e Treinamento 
 
 __Tecnologias :__ 
 
