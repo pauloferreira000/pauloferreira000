@@ -15,25 +15,15 @@
 Vivência com requisitos, arquitetura, desenvolvimento, integração de sistemas, liderança e treinamento, em times de alta performance e com foco na solução de problemas.
 </p>
 
+</br>
 
 __Skills:__ 
 
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whitev"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="Pyhton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+
 </br>
-
-  
-__Trabalho voluntário:__
-* Coorientador em projeto de Iniciação Científica </br>
-Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) </br>
-jul de 2014 - jun de 2015 </br>
-Ciência e tecnologia
-
-* Pesquisador colaborador CNPq - MCTCNPq - MCT </br>
-jun de 2012 - dez de 2014 </br>
-Ciência e tecnologia
-
 
 __Conecte-se__
 <div>
