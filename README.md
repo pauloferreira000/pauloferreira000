@@ -46,7 +46,6 @@ CREFISA - Analista desenvolvedor   :active,, 2021-05-01,2022-12-01
 
 ```
 
-</br>
 
 __Banco Crefisa S.A.__
 * Analista desenvolvedor | Full Stack Developer</br>
@@ -69,7 +68,7 @@ Análise | Desenvolvimento
 
 </br>
 
-__PMESP - Polícia Militar do Estado de São Paulo__
+__Polícia Militar do Estado de São Paulo__
 * Analista desenvolvedor .NET</br>
 dez de 2011 - jan de 2021 · 9 anos 2 meses</br>
 PMESP - Diretoria de pessoal</br>
