@@ -69,7 +69,7 @@ Análise | Desenvolvimento
 
 </br>
 
-__Polícia Militar do Estado de São Paulo__
+__PMESP - Polícia Militar do Estado de São Paulo__
 * Analista desenvolvedor .NET</br>
 dez de 2011 - jan de 2021 · 9 anos 2 meses</br>
 PMESP - Diretoria de pessoal</br>
@@ -95,7 +95,6 @@ __Tecnologias :__
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whitev"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="Pyhton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-</br>
 
 __Redes e contatos :__
 <div>
