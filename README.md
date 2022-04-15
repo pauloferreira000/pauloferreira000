@@ -47,7 +47,7 @@ CREFISA - Analista desenvolvedor   :active,, 2021-05-01,2022-12-01
 ```
 
 
-<a href="https://www.crefisa.com.br/" target="_blank">🔗</a>&nbsp; __Banco Crefisa S.A.__
+__Banco Crefisa S.A.__
 * Analista desenvolvedor | Full Stack Developer</br>
 mai de 2021 - o momento</br>
 Matriz SP</br>
@@ -55,8 +55,7 @@ Arquitetura | Análise | Desenvolvimento
 
 </br>
 
-<a href="https://www.tcs.com/" target="_blank">🔗</a> 
-&nbsp; __TCS - Tata Consultancy Services__
+__TCS - Tata Consultancy Services__
 * Analista desenvolvedor | Full Stack Developer</br>
 Porto Seguro - Matriz SP</br>
 jan de 2021 - mai de 2021 · 5 meses</br>
@@ -69,7 +68,7 @@ Análise | Desenvolvimento
 
 </br>
 
-<a href="https://www.policiamilitar.sp.gov.br/" target="_blank">🔗</a> &nbsp; __Polícia Militar do Estado de São Paulo__
+__Polícia Militar do Estado de São Paulo__
 * Analista desenvolvedor .NET</br>
 dez de 2011 - jan de 2021 · 9 anos 2 meses</br>
 PMESP - Diretoria de pessoal</br>
