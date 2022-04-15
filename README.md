@@ -6,6 +6,17 @@
 Analista desenvolvedor com mais de dez anos de experiência na área de tecnologia da informação, atuando em projetos de grande porte e de alta complexidade.
 </p>
 <br/>
+
+
+<p style='text-align: justify;'>
+<b>Perfil</b><br/>
+
+Técnico analítico, adaptativo e com expertise em realizar ciclos completos dos processos de desenvolvimento de software.
+Vivência com requisitos, arquitetura, desenvolvimento, integração de sistemas, liderança e treinamento, em times de alta performance e com foco na solução de problemas.
+</p>
+
+</br>
+
 <p style='text-align: justify;'> 
 <b>Formação acadêmica</b>
 
@@ -16,15 +27,6 @@ Analista desenvolvedor com mais de dez anos de experiência na área de tecnolog
 * Pós-graduação (especialização) em Planejamento, Implementação e Gestão de Ensino, pelo Instituto de Matemática e Estatística da UFF - Universidade Federal Fluminense (2017);
 
 * Graduação (Bacharelado) em Ciência da Computação, pela Universidade Guarulhos (2010).
-</p>
-
-</br>
-
-<p style='text-align: justify;'>
-<b>Perfil</b><br/>
-
-Técnico analítico, adaptativo e com expertise em realizar ciclos completos dos processos de desenvolvimento de software.
-Vivência com requisitos, arquitetura, desenvolvimento, integração de sistemas, liderança e treinamento, em times de alta performance e com foco na solução de problemas.
 </p>
 
 </br>
@@ -43,6 +45,50 @@ TCS - Analista desenvolvedor       :active,, 2021-01-01,2021-05-01
 CREFISA - Analista desenvolvedor   :active,, 2021-05-01,2022-12-01
 
 ```
+
+</br>
+
+__Experiência profissional__
+
+</br>
+
+__Crefisa__
+* Analista desenvolvedor | Full Stack Developer</br>
+mai de 2021 - o momento</br>
+Matriz SP
+Arquitetura | Análise | Desenvolvimento
+
+</br>
+
+__TCS - Tata Consultancy Services__
+* Analista desenvolvedor | Full Stack Developer</br>
+Porto Seguro - Matriz SP</br>
+jan de 2021 - mai de 2021 · 5 meses</br>
+Análise | Desenvolvimento
+
+* Analista desenvolvedor | Full Stack Developer</br>
+Itaú Saúde</br>
+jan de 2021 - mai de 2021 · 5 meses</br>
+Análise | Desenvolvimento
+
+</br>
+
+__Polícia Militar do Estado de São Paulo__
+* Analista desenvolvedor .NET</br>
+dez de 2011 - jan de 2021 · 9 anos 2 meses</br>
+PMESP - Diretoria de pessoal</br>
+Arquitetura | Análise | Desenvolvimento
+
+* Programador web</br>
+jan de 2011 - dez de 2011 · 1 anos</br>
+PMESP - Centro de Apoio Social</br>
+Desenvolvimento e sustentação de sistemas
+
+* Analista de suporte de TI</br>
+fev de 2010 - dez de 2010 · 11 meses</br>
+PMESP - TelemáticaPMESP - Telemática</br>
+Suporte técnico de TI
+
 
 </br>
 
