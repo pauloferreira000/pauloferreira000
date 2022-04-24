@@ -11,7 +11,7 @@ Analista desenvolvedor com mais de dez anos de experiência na área de tecnolog
 <p style='text-align: justify;'>
 <b>Perfil</b><br/>
 
-Técnico analítico, adaptativo e com expertise em realizar ciclos completos dos processos de desenvolvimento de software.
+Perfil técnico analítico, adaptativo e com expertise em realizar ciclos completos dos processos de desenvolvimento de software.
 Vivência com requisitos, arquitetura, desenvolvimento, integração de sistemas, liderança e treinamento, em times de alta performance e com foco na solução de problemas.
 </p>
 
